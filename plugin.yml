@@ -1,0 +1,8 @@
+name: BigBrother
+version: 1.6.1
+api: [3.2.3]
+description: "Allows the connection of Minecraft: PC clients to PocketMine-MP servers"
+author: BigBrotherTeam
+website: https://github.com/BigBrotherTeam/BigBrother
+load: STARTUP
+main: shoghicp\BigBrother\BigBrother
