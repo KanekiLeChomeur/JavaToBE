@@ -1,5 +1,5 @@
-name: BigBrother
-version: 1.6.1
+name: JavaToBE
+version: 1.7.1
 api: [3.2.3]
 description: "Allows the connection of Minecraft: PC clients to PocketMine-MP servers"
 author: BigBrotherTeam
