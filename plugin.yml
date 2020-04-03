@@ -1,5 +1,5 @@
 name: JavaToBE
-version: 1.7.1
+version: 1.7.2
 api: [3.2.3]
 description: "Allows the connection of Minecraft: PC clients to PocketMine-MP servers"
 author: BigBrotherTeam
